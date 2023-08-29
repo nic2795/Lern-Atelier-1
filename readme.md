@@ -17,7 +17,7 @@ Fügen Sie hier ein, welchen Zeitrahmen diese Grob-Planung abdeckt
 Erstellen Sie jeweils am Ende einer Sitzung ein neues Kapitel, in welcher Sie 4 Arbeitspakete mit dazugehörigen Testfällen für die nächste Sitzung aufschreiben:
 
 - [ ] Einen Taschenrechner, der simple Aufgaben lösen kann.
-- [ ] 
+- [ ] Grundbegriffe in C# lernen
 
 | Vorbereitung             | Eingabe | Erwartete Ausgabe |
 | ------------------------ | ------- | ----------------- |
