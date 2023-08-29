@@ -16,8 +16,15 @@ Fügen Sie hier ein, welchen Zeitrahmen diese Grob-Planung abdeckt
 
 Erstellen Sie jeweils am Ende einer Sitzung ein neues Kapitel, in welcher Sie 4 Arbeitspakete mit dazugehörigen Testfällen für die nächste Sitzung aufschreiben:
 
-- [ ] Einen Taschenrechner, der simple Aufgaben lösen kann.
-- [ ] Grundbegriffe in C# lernen
+- [x] Einen Taschenrechner, der simple Aufgaben lösen kann.
+- [x] Grundbegriffe in C# lernen
+
+## Zusammenfassung von 29.08.2023
+*Ich haben einen Taschenrechner programmiert, aber ich bin nicht zufrieden mit meinem Ergebnis. Der Rechner funktioniert zwar, aber mann kann die Zahlen und Operationen nicht im Terminal direkt eingeben. Das nächste Mal möchte ich dies noch beheben. An sich denke ich jedoch, dass ich heute gut und produktiv gearbeitet habe. (50 Wörter)
+
+## Arbeitspalet für 05.09.2023
+- [ ] Taschenrechner im Terminal benutzen können
+- [ ] Neues Projekt überlegen
 
 | Vorbereitung             | Eingabe | Erwartete Ausgabe |
 | ------------------------ | ------- | ----------------- |
