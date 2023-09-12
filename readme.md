@@ -26,6 +26,7 @@ Ich haben einen Taschenrechner programmiert, aber ich bin nicht zufrieden mit me
 - [ ] Taschenrechner im Terminal benutzen können
 - [ ] Neues Projekt überlegen
 
+
 | Vorbereitung             | Eingabe | Erwartete Ausgabe |
 | ------------------------ | ------- | ----------------- |
 | Programm in VS gestartet | `Niclas`  | `Hallo Niclas`      |
