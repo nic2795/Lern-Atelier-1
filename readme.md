@@ -26,6 +26,22 @@ Ich haben einen Taschenrechner programmiert, aber ich bin nicht zufrieden mit me
 - [ ] Taschenrechner im Terminal benutzen können
 - [ ] Neues Projekt überlegen
 
+## Zusammenfassung von 05.08.2023
+Ich habe denn Taschenrechner nicht fertig gestellt, weil ich es mit meinen kenntnissen nicht geschafft habe. Ich habe jedoch ein neues Projekt angefangen. Ich habe angefangen einen Kopfrechentrainer zu programmieren. ICh habe es auf einem Windows Laptop gemacht, auf dem Visual Studio kanz anderst aussieht. Es ist viel einfacher auf Widows. (51 Wörter)
+
+## Arbeitspalet 12.09.2023
+- [ ] Kopfrechentrainer fertigstellen
+- [ ] Code auf Github hochladen
+- [ ] Neues Projekt
+
+## Zusammenfassung von 12.09.2023
+Ich habe den Kopfrechen Trainer fertig gestellt, mann kann ihn nun benutzen, nach 10 aufgaben hinterenander, sagt er dir wie viele Rechnungen man richtig und falsch hat. Ich habe jedoch nut plus und minus rechnungen im trainer eingebaut. Wenn der Rechner nähmlich auch noch geteiltdurch und mal machen soll, werden die aufgaben zu schwierig. 
+Der Code des Rechners ist nun auch auf Github. (63 Wörter)
+
+## Arbeitspalet 19.09.2023
+- [ ] Neues Projekt beginnen 
+
+
 
 | Vorbereitung             | Eingabe | Erwartete Ausgabe |
 | ------------------------ | ------- | ----------------- |
