@@ -39,7 +39,16 @@ Ich habe den Kopfrechen Trainer fertig gestellt, mann kann ihn nun benutzen, nac
 Der Code des Rechners ist nun auch auf Github. (63 Wörter)
 
 ## Arbeitspalet 19.09.2023
-- [ ] Neues Projekt beginnen 
+- [ ] Vokabeltrainer prgramieren
+- [ ] Verschiedene Sprachen
+
+## Zusammenfassung 19.09.2023
+Ich habe angefangen einen VokabelTrainer zu programmieren, mit einem Tutorial, dass Tutorial ist aber nicht das beste und ich habe deswegen Zeit verloren, weil ich Sachen nicht gefunden oder verstanden habe. Ich bin jedoch mit meiner Arbeit zufrieden und ich denke ich habe gut gearbeitet.
+
+## Arbeitspalet 26.09.2023
+- [ ] Vokabeltrainer fertigstellen
+- [ ] Code auf Github hochladen
+- [ ] Flappy Bird programmieren 
 
 
 
