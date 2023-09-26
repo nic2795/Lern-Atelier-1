@@ -53,14 +53,8 @@ Ich habe angefangen einen VokabelTrainer zu programmieren, mit einem Tutorial, d
 ## Zusammenfassung 26.09.2023
 Ich habe mit dem Vokabeltrainer weiter gemacht. Leider bin ich nicht fertig geworden und konnte nicht mit dem Flappy Bird beginnen. Jedoch ist der Code, den ich bis jetzt geschrieben habe, bereits auf Github. Ich hatte heute keine Problem, ich konnte alles ohne Hilfe lösen und der Code funktioniert. (49 Wörter)
 
+## Reflexion 
+Am Anfang hatte ich kaum eine Ahnung, ich hatte zwar schonmal Progammiert doch dort habe ich alles von einem Video kopiert. Im ersten Lern-Atelier, habe ich auch mit einem Tutorial Video begonnen, doch schon nach einer kurzen Zeit kannte ich die Grundbegriffe. Mit der Zeit konnte ich dann auch Teile ganz ohne Video machen und habe nur mit dem Video gearbeitet wenn ich wirklich nicht mehr weiter wusste. Inzwischen brauche ich kaum noch ein Video, da ich so gut wie alles kann, was ich brauche. Seit zwei Wochen bin ich nun dran ein Vokabeltrainer mit Widows Forms zu programmieren, was anfangs nicht ganz einfach war, weil es noch sehr viel Code im Hintergrund gibt. Doch nun ist auch Windows Forms kein Problem mehr für mich und ich denke mit einem Tutorial, dass nur die schwierigen Stellen beinhaltet, könnte ich vieles Programmieren.
 
-
-| Vorbereitung             | Eingabe | Erwartete Ausgabe |
-| ------------------------ | ------- | ----------------- |
-| Programm in VS gestartet | `Niclas`  | `Hallo Niclas`      |
-
-- [ ] ...
-- [ ] ...
-- [ ] ...
 
 Haken Sie am Ende die Arbeitspakete ab, die Sie erledigen konnten. Schreiben Sie ggf. eine kurze Erklärung, was gut geklappt hat oder warum etwas nicht erreicht werden konnte.
