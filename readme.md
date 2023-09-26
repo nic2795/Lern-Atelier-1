@@ -10,7 +10,7 @@ Fügen Sie hier ein, welchen Zeitrahmen diese Grob-Planung abdeckt
 
 ## Leit-Satz
 
-*Ich möchte in diesem Zeitraum einen simplen Taschenrechner mit C# programmieren. Ich denke für den Sart in dass programmieren, ist dies ein gutes Projekt. Es reicht mir wenn der Taschenrechner +; -; x; ÷; kann. Ich möchte die grundkenntise von Visual Studio und von C# kennen lernen.*  
+*Ich möchte in diesem Zeitraum einen simplen Taschenrechner mit C# programmieren. Ich denke für den Sart in dass programmieren, ist dies ein gutes Projekt. Es reicht mir wenn der Taschenrechner +; -; x; ÷; kann. Ich möchte die Grundkenntisse von Visual Studio und von C# kennen lernen.*  
 
 ## Arbeitspakete für 29.08.2023
 
