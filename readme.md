@@ -43,12 +43,15 @@ Der Code des Rechners ist nun auch auf Github. (63 Wörter)
 - [ ] Verschiedene Sprachen
 
 ## Zusammenfassung 19.09.2023
-Ich habe angefangen einen VokabelTrainer zu programmieren, mit einem Tutorial, dass Tutorial ist aber nicht das beste und ich habe deswegen Zeit verloren, weil ich Sachen nicht gefunden oder verstanden habe. Ich bin jedoch mit meiner Arbeit zufrieden und ich denke ich habe gut gearbeitet.
+Ich habe angefangen einen VokabelTrainer zu programmieren, mit einem Tutorial, dass Tutorial ist aber nicht das beste und ich habe deswegen Zeit verloren, weil ich Sachen nicht gefunden oder verstanden habe. Ich bin jedoch mit meiner Arbeit zufrieden und ich denke ich habe gut gearbeitet. (45 Wörter)
 
 ## Arbeitspalet 26.09.2023
 - [ ] Vokabeltrainer fertigstellen
 - [ ] Code auf Github hochladen
-- [ ] Flappy Bird programmieren 
+- [ ] Flappy Bird programmieren
+
+## Zusammenfassung 26.09.2023
+Ich habe mit dem Vokabeltrainer weiter gemacht. Leider bin ich nicht fertig geworden und konnte nicht mit dem Flappy Bird beginnen. Jedoch ist der Code, den ich bis jetzt geschrieben habe, bereits auf Github. Ich hatte heute keine Problem, ich konnte alles ohne Hilfe lösen und der Code funktioniert. (49 Wörter)
 
 
 
